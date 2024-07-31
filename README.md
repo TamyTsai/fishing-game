@@ -1,5 +1,6 @@
 # 釣魚遊戲
-![Simulator Screenshot - iPhone 15 初始畫面](https://github.com/user-attachments/assets/f022f72e-d3cb-4c29-9161-d76565becde0)
+<img src="專案畫面/Simulator Screenshot - iPhone 15 初始畫面.png" width="30%">
+<!-- ![Simulator Screenshot - iPhone 15 初始畫面](https://github.com/user-attachments/assets/f022f72e-d3cb-4c29-9161-d76565becde0) -->
 
 ## 關於釣魚遊戲
 - 滑動滑塊，讓魚竿盡可能接近魚，以獲取高分
@@ -11,15 +12,20 @@
 ### 初始畫面
 - 根據目標距離，滑動滑塊到適當位置
 
-![Simulator Screenshot - iPhone 15 初始畫面](https://github.com/user-attachments/assets/e85ad917-b420-400c-a2bc-aea02b63e3d0)
-![Simulator Screenshot - iPhone 15  滑動後畫面](https://github.com/user-attachments/assets/0021c238-d5a7-4e51-a533-525eb4d9abc1)
+<img src="專案畫面/Simulator Screenshot - iPhone 15 初始畫面.png" width="30%">
+<img src="專案畫面/Simulator Screenshot - iPhone 15  滑動後畫面.png" width="30%">
+
+<!-- ![Simulator Screenshot - iPhone 15 初始畫面](https://github.com/user-attachments/assets/e85ad917-b420-400c-a2bc-aea02b63e3d0) -->
+<!-- ![Simulator Screenshot - iPhone 15  滑動後畫面](https://github.com/user-attachments/assets/0021c238-d5a7-4e51-a533-525eb4d9abc1) -->
 
 <hr>
 
 ### 顯示得分
 - 確定滑塊位置後，點擊下方按鈕，遊戲依據滑塊位置與目標位置一致度顯示分數
 
-![Simulator Screenshot - iPhone 15 點擊後](https://github.com/user-attachments/assets/86b08b77-c5c9-49e9-a449-784cab978c1c)
+<img src="專案畫面/Simulator Screenshot - iPhone 15 點擊後.png" width="30%">
+
+<!-- ![Simulator Screenshot - iPhone 15 點擊後](https://github.com/user-attachments/assets/86b08b77-c5c9-49e9-a449-784cab978c1c) -->
 
 <!-- ## 安裝
 
