@@ -36,11 +36,12 @@
 
 ### 取得專案
 ```bash
-git clone 
+git clone https://github.com/TamyTsai/fishing-game.git
 ```
+
 ### 移動到專案內
 ```bash
-cd 
+cd fishing-game
 ``` -->
 
 <!-- ## 資料夾及檔案說明
