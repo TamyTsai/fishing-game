@@ -10,7 +10,7 @@
 
 ## 專案畫面與功能介紹
 ### 初始畫面
-- 根據目標距離，滑動滑塊到適當位置
+- 根據目標距離，滑動滑塊至適當位置
 
 <img src="專案畫面/Simulator Screenshot - iPhone 15 初始畫面.png" width="50%">
 <img src="專案畫面/Simulator Screenshot - iPhone 15  滑動後畫面.png" width="50%">
